@@ -1,4 +1,5 @@
 <h1 align="left">Hello👋, I'm Micaela</h1>
+<br/>
 <h3 align="left">A passionate web developer from Italy</h3>
 
 <p align="left">
