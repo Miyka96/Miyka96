@@ -1,10 +1,11 @@
 <h1 align="left">Hello👋, I'm Micaela</h1>
 <br/>
-<h3 align="left">A passionate web developer from Italy</h3>
+<h5> 💼 I’m currently working as Backend Developer with these technologies:</h5>
+<h3 align="left">
+**Aws, Serverless Framework, Typescript, Dart**
+</h3>
 
-<p align="left">
-- 🌱 I’m currently learning **Aws, Serverless Framework, Typescript, Dart && Flutter**
-</p>
+  <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
