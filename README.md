@@ -2,7 +2,7 @@
 <br/>
 <h5> 💼 I'm currently working as a Software Developer with a strong focus on backend and cloud technologies. I specialize in:</h5>
 <h3 align="left">
-**Serverless & Event-Driven Architectures, AWS Cloud Platform, TypeScript, Dart**
+**Serverless & Event-Driven Architectures, AWS Cloud Platform, TypeScript, Dart, Python**
 </h3>
 
 <p align="left">
