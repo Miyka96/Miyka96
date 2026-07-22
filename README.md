@@ -18,7 +18,7 @@ Current interests include:
 Python • FastAPI • AWS • CDK • ECS • Lambda • Kafka • Redis • Docker
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=miyka96&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MicaelaSeminara&theme=tokyonight_duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
